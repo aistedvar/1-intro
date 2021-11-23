@@ -1,0 +1,8 @@
+sekancios uzduotys:
+
+-pakeisti srifta
+-spalvos
+-limituoti teksto plotai
+-fonas (spalva)
+
+www kaip aktyvinti
